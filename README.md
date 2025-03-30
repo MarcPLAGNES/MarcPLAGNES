@@ -1,16 +1,15 @@
-## Hi there 👋
+## 👋 Hello, moi c’est Marc !
 
-<!--
-**MarcPLAGNES/MarcPLAGNES** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis un **développeur web junior** tout juste sorti du Wagon 🚀 et prêt à coder, apprendre et relever de nouveaux défis tech !
 
-Here are some ideas to get you started:
+### 💡 À propos de moi
+- 🎓 Récemment diplômé de la formation **Le Wagon**.
+- 💻 Passionné par le développement web et les nouvelles technologies.
+- 🏨 Ancien directeur d'hôtel en pleine reconversion vers le monde du code.
+- 🚀 Actuellement en quête de projets et d’opportunités pour monter en compétences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack & Outils
+- **Langages** : JavaScript, Ruby
+- **Frameworks** : React, Ruby on Rails
+- **Base de données** : PostgreSQL, SQL
+- **Autres** : Git, GitHub, Figma
